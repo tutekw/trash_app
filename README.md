@@ -1,1 +1,1 @@
-trash_app
+My own app project. The main functionality allows you to place markers on map anywhere you want to using the same localisation picking method as in Uber. For now the markers have different colors, in the final form each marker icon is different. Adding markers requires authorisation. You can either create an account for yourself or login if you already have one. 
